@@ -1,0 +1,5 @@
+/* reglas css solo para este componente */
+h1 {
+    color: orange;
+    font-size: 40px;
+}
